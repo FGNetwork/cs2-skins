@@ -1,0 +1,443 @@
+{
+    "4613": {
+        "weapon_name": "Bloody Darryl The Strapped",
+        "name": "The Professionals",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_professional_varf5.png",
+        "team": 0,
+        "color": "#d32ce6"
+    },
+    "4619": {
+        "weapon_name": "'Blueberries' Buckshot",
+        "name": "NSWC SEAL",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_st6_variantj.png",
+        "team": 1,
+        "color": "#8847ff"
+    },
+    "4680": {
+        "weapon_name": "'Two Times' McCoy",
+        "name": "TACP Cavalry",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_st6_variantl.png",
+        "team": 1,
+        "color": "#d32ce6"
+    },
+    "4711": {
+        "weapon_name": "Cmdr. Mae 'Dead Cold' Jamison",
+        "name": "SWAT",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_swat_variante.png",
+        "team": 1,
+        "color": "#eb4b4b"
+    },
+    "4712": {
+        "weapon_name": "1st Lieutenant Farlow",
+        "name": "SWAT",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_swat_variantf.png",
+        "team": 1,
+        "color": "#d32ce6"
+    },
+    "4713": {
+        "weapon_name": "John 'Van Healen' Kask",
+        "name": "SWAT",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_swat_variantg.png",
+        "team": 1,
+        "color": "#8847ff"
+    },
+    "4714": {
+        "weapon_name": "Bio-Haz Specialist",
+        "name": "SWAT",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_swat_varianth.png",
+        "team": 1,
+        "color": "#4b69ff"
+    },
+    "4715": {
+        "weapon_name": "Sergeant Bombson",
+        "name": "SWAT",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_swat_varianti.png",
+        "team": 1,
+        "color": "#8847ff"
+    },
+    "4716": {
+        "weapon_name": "Chem-Haz Specialist",
+        "name": "SWAT",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_swat_variantj.png",
+        "team": 1,
+        "color": "#4b69ff"
+    },
+    "4718": {
+        "weapon_name": "Rezan the Redshirt",
+        "name": "Sabre",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_balkan_variantk.png",
+        "team": 0,
+        "color": "#d32ce6"
+    },
+    "4726": {
+        "weapon_name": "Sir Bloody Miami Darryl",
+        "name": "The Professionals",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_professional_varf.png",
+        "team": 0,
+        "color": "#eb4b4b"
+    },
+    "4727": {
+        "weapon_name": "Safecracker Voltzmann",
+        "name": "The Professionals",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_professional_varg.png",
+        "team": 0,
+        "color": "#d32ce6"
+    },
+    "4728": {
+        "weapon_name": "Little Kev",
+        "name": "The Professionals",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_professional_varh.png",
+        "team": 0,
+        "color": "#8847ff"
+    },
+    "4730": {
+        "weapon_name": "Getaway Sally",
+        "name": "The Professionals",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_professional_varj.png",
+        "team": 0,
+        "color": "#8847ff"
+    },
+    "4732": {
+        "weapon_name": "Number K",
+        "name": "The Professionals",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_professional_vari.png",
+        "team": 0,
+        "color": "#d32ce6"
+    },
+    "4733": {
+        "weapon_name": "Sir Bloody Silent Darryl",
+        "name": "The Professionals",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_professional_varf1.png",
+        "team": 0,
+        "color": "#eb4b4b"
+    },
+    "4734": {
+        "weapon_name": "Sir Bloody Skullhead Darryl",
+        "name": "The Professionals",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_professional_varf2.png",
+        "team": 0,
+        "color": "#eb4b4b"
+    },
+    "4735": {
+        "weapon_name": "Sir Bloody Darryl Royale",
+        "name": "The Professionals",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_professional_varf3.png",
+        "team": 0,
+        "color": "#eb4b4b"
+    },
+    "4736": {
+        "weapon_name": "Sir Bloody Loudmouth Darryl",
+        "name": "The Professionals",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_professional_varf4.png",
+        "team": 0,
+        "color": "#eb4b4b"
+    },
+    "4749": {
+        "weapon_name": "Sous-Lieutenant Medic",
+        "name": "Gendarmerie Nationale",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_gendarmerie_varianta.png",
+        "team": 1,
+        "color": "#8847ff"
+    },
+    "4750": {
+        "weapon_name": "Chem-Haz Capitaine",
+        "name": "Gendarmerie Nationale",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_gendarmerie_variantb.png",
+        "team": 1,
+        "color": "#d32ce6"
+    },
+    "4751": {
+        "weapon_name": "Chef d'Escadron Rouchard",
+        "name": "Gendarmerie Nationale",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_gendarmerie_variantc.png",
+        "team": 1,
+        "color": "#eb4b4b"
+    },
+    "4752": {
+        "weapon_name": "Aspirant",
+        "name": "Gendarmerie Nationale",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_gendarmerie_variantd.png",
+        "team": 1,
+        "color": "#4b69ff"
+    },
+    "4753": {
+        "weapon_name": "Officer Jacques Beltram",
+        "name": "Gendarmerie Nationale",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_gendarmerie_variante.png",
+        "team": 1,
+        "color": "#8847ff"
+    },
+    "4756": {
+        "weapon_name": "Lieutenant 'Tree Hugger' Farlow",
+        "name": "SWAT",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_swat_variantk.png",
+        "team": 1,
+        "color": "#8847ff"
+    },
+    "4757": {
+        "weapon_name": "Cmdr. Davida 'Goggles' Fernandez",
+        "name": "SEAL Frogman",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_diver_varianta.png",
+        "team": 1,
+        "color": "#eb4b4b"
+    },
+    "4771": {
+        "weapon_name": "Cmdr. Frank 'Wet Sox' Baroud",
+        "name": "SEAL Frogman",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_diver_variantb.png",
+        "team": 1,
+        "color": "#eb4b4b"
+    },
+    "4772": {
+        "weapon_name": "Lieutenant Rex Krikey",
+        "name": "SEAL Frogman",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_diver_variantc.35246779c8cefbea23246097d4ab9eb6b658ce8a.png",
+        "team": 1,
+        "color": "#d32ce6"
+    },
+    "4773": {
+        "weapon_name": "Elite Trapper Solman",
+        "name": "Guerrilla Warfare",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_jungle_raider_varianta.png",
+        "team": 0,
+        "color": "#d32ce6"
+    },
+    "4774": {
+        "weapon_name": "Crasswater The Forgotten",
+        "name": "Guerrilla Warfare",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_jungle_raider_variantb.png",
+        "team": 0,
+        "color": "#eb4b4b"
+    },
+    "4775": {
+        "weapon_name": "Arno The Overgrown",
+        "name": "Guerrilla Warfare",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_jungle_raider_variantc.png",
+        "team": 0,
+        "color": "#d32ce6"
+    },
+    "4776": {
+        "weapon_name": "Col. Mangos Dabisi",
+        "name": "Guerrilla Warfare",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_jungle_raider_variantd.png",
+        "team": 0,
+        "color": "#8847ff"
+    },
+    "4777": {
+        "weapon_name": "Vypa Sista of the Revolution",
+        "name": "Guerrilla Warfare",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_jungle_raider_variante.png",
+        "team": 0,
+        "color": "#eb4b4b"
+    },
+    "4778": {
+        "weapon_name": "Trapper Aggressor",
+        "name": "Guerrilla Warfare",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_jungle_raider_variantf.png",
+        "team": 0,
+        "color": "#4b69ff"
+    },
+    "4780": {
+        "weapon_name": "'Medium Rare' Crasswater",
+        "name": "Guerrilla Warfare",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_jungle_raider_variantb2.png",
+        "team": 0,
+        "color": "#eb4b4b"
+    },
+    "4781": {
+        "weapon_name": "Trapper",
+        "name": "Guerrilla Warfare",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_jungle_raider_variantf2.png",
+        "team": 0,
+        "color": "#8847ff"
+    },
+    "5105": {
+        "weapon_name": "Ground Rebel",
+        "name": "Elite Crew",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_leet_variantg.png",
+        "team": 0,
+        "color": "#4b69ff"
+    },
+    "5106": {
+        "weapon_name": "Osiris",
+        "name": "Elite Crew",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_leet_varianth.png",
+        "team": 0,
+        "color": "#8847ff"
+    },
+    "5107": {
+        "weapon_name": "Prof. Shahmat",
+        "name": "Elite Crew",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_leet_varianti.png",
+        "team": 0,
+        "color": "#d32ce6"
+    },
+    "5108": {
+        "weapon_name": "The Elite Mr. Muhlik",
+        "name": "Elite Crew",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_leet_variantf.png",
+        "team": 0,
+        "color": "#eb4b4b"
+    },
+    "5109": {
+        "weapon_name": "Jungle Rebel",
+        "name": "Elite Crew",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_leet_variantj.png",
+        "team": 0,
+        "color": "#4b69ff"
+    },
+    "5205": {
+        "weapon_name": "Soldier",
+        "name": "Phoenix",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_phoenix_varianth.png",
+        "team": 0,
+        "color": "#4b69ff"
+    },
+    "5206": {
+        "weapon_name": "Enforcer",
+        "name": "Phoenix",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_phoenix_variantf.png",
+        "team": 0,
+        "color": "#4b69ff"
+    },
+    "5207": {
+        "weapon_name": "Slingshot",
+        "name": "Phoenix",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_phoenix_variantg.png",
+        "team": 0,
+        "color": "#8847ff"
+    },
+    "5208": {
+        "weapon_name": "Street Soldier",
+        "name": "Phoenix",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_phoenix_varianti.png",
+        "team": 0,
+        "color": "#4b69ff"
+    },
+    "5305": {
+        "weapon_name": "Operator",
+        "name": "FBI SWAT",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_fbi_variantf.png",
+        "team": 1,
+        "color": "#4b69ff"
+    },
+    "5306": {
+        "weapon_name": "Markus Delrow",
+        "name": "FBI HRT",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_fbi_variantg.png",
+        "team": 1,
+        "color": "#8847ff"
+    },
+    "5307": {
+        "weapon_name": "Michael Syfers",
+        "name": "FBI Sniper",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_fbi_varianth.png",
+        "team": 1,
+        "color": "#d32ce6"
+    },
+    "5308": {
+        "weapon_name": "Special Agent Ava",
+        "name": "FBI",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_fbi_variantb.png",
+        "team": 1,
+        "color": "#eb4b4b"
+    },
+    "5400": {
+        "weapon_name": "3rd Commando Company",
+        "name": "KSK",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_st6_variantk.png",
+        "team": 1,
+        "color": "#4b69ff"
+    },
+    "5401": {
+        "weapon_name": "Seal Team 6 Soldier",
+        "name": "NSWC SEAL",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_st6_variante.png",
+        "team": 1,
+        "color": "#4b69ff"
+    },
+    "5402": {
+        "weapon_name": "Buckshot",
+        "name": "NSWC SEAL",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_st6_variantg.png",
+        "team": 1,
+        "color": "#8847ff"
+    },
+    "5403": {
+        "weapon_name": "'Two Times' McCoy",
+        "name": "USAF TACP",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_st6_variantm.png",
+        "team": 1,
+        "color": "#d32ce6"
+    },
+    "5404": {
+        "weapon_name": "Lt. Commander Ricksaw",
+        "name": "NSWC SEAL",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_st6_varianti.png",
+        "team": 1,
+        "color": "#eb4b4b"
+    },
+    "5405": {
+        "weapon_name": "Primeiro Tenente",
+        "name": "Brazilian 1st Battalion",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_st6_variantn.png",
+        "team": 1,
+        "color": "#4b69ff"
+    },
+    "5500": {
+        "weapon_name": "Dragomir",
+        "name": "Sabre",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_balkan_variantf.png",
+        "team": 0,
+        "color": "#8847ff"
+    },
+    "5501": {
+        "weapon_name": "Maximus",
+        "name": "Sabre",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_balkan_varianti.png",
+        "team": 0,
+        "color": "#8847ff"
+    },
+    "5502": {
+        "weapon_name": "Rezan The Ready",
+        "name": "Sabre",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_balkan_variantg.png",
+        "team": 0,
+        "color": "#d32ce6"
+    },
+    "5503": {
+        "weapon_name": "Blackwolf",
+        "name": "Sabre",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_balkan_variantj.png",
+        "team": 0,
+        "color": "#d32ce6"
+    },
+    "5504": {
+        "weapon_name": "'The Doctor' Romanov",
+        "name": "Sabre",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_balkan_varianth.png",
+        "team": 0,
+        "color": "#eb4b4b"
+    },
+    "5505": {
+        "weapon_name": "Dragomir",
+        "name": "Sabre Footsoldier",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_tm_balkan_variantl.png",
+        "team": 0,
+        "color": "#4b69ff"
+    },
+    "5601": {
+        "weapon_name": "B Squadron Officer",
+        "name": "SAS",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_sas_variantf.png",
+        "team": 1,
+        "color": "#4b69ff"
+    },
+    "5602": {
+        "weapon_name": "D Squadron Officer",
+        "name": "NZSAS",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/characters/customplayer_ctm_sas_variantg.png",
+        "team": 1,
+        "color": "#4b69ff"
+    }
+}

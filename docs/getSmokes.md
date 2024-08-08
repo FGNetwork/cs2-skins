@@ -1,0 +1,54 @@
+### getSmokes()
+
+Returns all smokes.
+
+#### Returns
+
+Type: `object`
+
+Example:
+
+```js
+{
+    "0": {
+        "weapon_name": "Smoke",
+        "name": "Padrão",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/smokes/smoke.png"
+    },
+    "1": {
+        "weapon_name": "Smoke",
+        "name": "Cinza",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/smokes/gray.png"
+    },
+    "2": {
+        "weapon_name": "Smoke",
+        "name": "Verde",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/smokes/green.png"
+    },
+    "3": {
+        "weapon_name": "Smoke",
+        "name": "Laranja",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/smokes/orange.png"
+    },
+    "4": {
+        "weapon_name": "Smoke",
+        "name": "Rosa",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/smokes/pink.png"
+    },
+    "5": {
+        "weapon_name": "Smoke",
+        "name": "Roxo",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/smokes/purple.png"
+    },
+    "6": {
+        "weapon_name": "Smoke",
+        "name": "Vermelho",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/smokes/red.png"
+    },
+    "7": {
+        "weapon_name": "Smoke",
+        "name": "Amarelo",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/smokes/yellow.png"
+    }
+}
+``` 

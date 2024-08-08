@@ -1,0 +1,2408 @@
+{
+    "874": {
+        "name": "5 Year Veteran Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/5yearcoin_png.png",
+        "color": "#eb4b4b"
+    },
+    "875": {
+        "name": "Champion at DreamHack 2013",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dreamhack_2013_champion_png.png",
+        "color": "#eb4b4b"
+    },
+    "876": {
+        "name": "Finalist at DreamHack 2013",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dreamhack_2013_finalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "877": {
+        "name": "Semifinalist at DreamHack 2013",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dreamhack_2013_semifinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "878": {
+        "name": "Quarterfinalist at DreamHack 2013",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dreamhack_2013_quarterfinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "879": {
+        "name": "Champion at EMS One Katowice 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/katowice_2014_champion_png.png",
+        "color": "#eb4b4b"
+    },
+    "880": {
+        "name": "Finalist at EMS One Katowice 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/katowice_2014_finalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "881": {
+        "name": "Semifinalist at EMS One Katowice 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/katowice_2014_semifinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "882": {
+        "name": "Quarterfinalist at EMS One Katowice 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/katowice_2014_quarterfinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "883": {
+        "name": "Champion at ESL One Cologne 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_trophy_champion_png.png",
+        "color": "#eb4b4b"
+    },
+    "884": {
+        "name": "Finalist at ESL One Cologne 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_trophy_finalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "885": {
+        "name": "Semifinalist at ESL One Cologne 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_trophy_semifinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "886": {
+        "name": "Quarterfinalist at ESL One Cologne 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_trophy_quarterfinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "887": {
+        "name": "Bronze Cologne 2014 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_prediction_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "888": {
+        "name": "Silver Cologne 2014 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_prediction_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "889": {
+        "name": "Gold Cologne 2014 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_prediction_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "890": {
+        "name": "Champion at DreamHack Winter 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dhw_2014_champion_png.png",
+        "color": "#eb4b4b"
+    },
+    "891": {
+        "name": "Finalist at DreamHack Winter 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dhw_2014_finalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "892": {
+        "name": "Semifinalist at DreamHack Winter 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dhw_2014_semifinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "893": {
+        "name": "Quarterfinalist at DreamHack Winter 2014",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dhw_2014_quarterfinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "894": {
+        "name": "Bronze DreamHack 2014 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dhw14_prediction_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "895": {
+        "name": "Silver DreamHack 2014 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dhw14_prediction_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "896": {
+        "name": "Gold DreamHack 2014 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/dhw14_prediction_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "897": {
+        "name": "Champion at ESL One Katowice 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/kat_2015_champion_png.png",
+        "color": "#eb4b4b"
+    },
+    "898": {
+        "name": "Finalist at ESL One Katowice 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/kat_2015_finalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "899": {
+        "name": "Semifinalist at ESL One Katowice 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/kat_2015_semifinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "900": {
+        "name": "Quarterfinalist at ESL One Katowice 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/kat_2015_quarterfinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "901": {
+        "name": "Bronze Katowice 2015 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/kat_2015_prediction_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "902": {
+        "name": "Silver Katowice 2015 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/kat_2015_prediction_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "903": {
+        "name": "Gold Katowice 2015 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/kat_2015_prediction_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "904": {
+        "name": "Champion at ESL One Cologne 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/col_2015_champion_png.png",
+        "color": "#eb4b4b"
+    },
+    "905": {
+        "name": "Finalist at ESL One Cologne 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/col_2015_finalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "906": {
+        "name": "Semifinalist at ESL One Cologne 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/col_2015_semifinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "907": {
+        "name": "Quarterfinalist at ESL One Cologne 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/col_2015_quarterfinalist_png.png",
+        "color": "#eb4b4b"
+    },
+    "908": {
+        "name": "Bronze Cologne 2015 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/col_2015_prediction_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "909": {
+        "name": "Silver Cologne 2015 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/col_2015_prediction_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "910": {
+        "name": "Gold Cologne 2015 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/col_2015_prediction_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "911": {
+        "name": "Bronze Cluj-Napoca 2015 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cluj_2015_prediction_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "912": {
+        "name": "Silver Cluj-Napoca 2015 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cluj_2015_prediction_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "913": {
+        "name": "Gold Cluj-Napoca 2015 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cluj_2015_prediction_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "914": {
+        "name": "Bronze Cluj-Napoca 2015 Fantasy Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cluj_2015_fantasy_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "915": {
+        "name": "Silver Cluj-Napoca 2015 Fantasy Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cluj_2015_fantasy_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "916": {
+        "name": "Gold Cluj-Napoca 2015 Fantasy Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cluj_2015_fantasy_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "917": {
+        "name": "Champion at DreamHack Cluj-Napoca 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "918": {
+        "name": "Finalist at DreamHack Cluj-Napoca 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "919": {
+        "name": "Semifinalist at DreamHack Cluj-Napoca 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "920": {
+        "name": "Quarterfinalist at DreamHack Cluj-Napoca 2015",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "921": {
+        "name": "Bronze Columbus 2016 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/mlg_2016_pickem_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "922": {
+        "name": "Silver Columbus 2016 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/mlg_2016_pickem_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "923": {
+        "name": "Gold Columbus 2016 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/mlg_2016_pickem_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "924": {
+        "name": "Bronze Columbus 2016 Fantasy Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/mlg_2016_fantasy_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "925": {
+        "name": "Silver Columbus 2016 Fantasy Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/mlg_2016_fantasy_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "926": {
+        "name": "Gold Columbus 2016 Fantasy Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/mlg_2016_fantasy_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "927": {
+        "name": "Champion at MLG Columbus 2016",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "928": {
+        "name": "Finalist at MLG Columbus 2016",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "929": {
+        "name": "Semifinalist at MLG Columbus 2016",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "930": {
+        "name": "Quarterfinalist at MLG Columbus 2016",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "931": {
+        "name": "Champion at ESL One Cologne 2016",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "932": {
+        "name": "Finalist at ESL One Cologne 2016",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "933": {
+        "name": "Semifinalist at ESL One Cologne 2016",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "934": {
+        "name": "Quarterfinalist at ESL One Cologne 2016",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "935": {
+        "name": "Bronze Cologne 2016 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_pickem_2016_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "936": {
+        "name": "Silver Cologne 2016 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_pickem_2016_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "937": {
+        "name": "Gold Cologne 2016 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_pickem_2016_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "938": {
+        "name": "Bronze Cologne 2016 Fantasy Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_fantasy_2016_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "939": {
+        "name": "Silver Cologne 2016 Fantasy Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_fantasy_2016_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "940": {
+        "name": "Gold Cologne 2016 Fantasy Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cologne_fantasy_2016_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "941": {
+        "name": "Champion at ELEAGUE Atlanta 2017",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "942": {
+        "name": "Finalist at ELEAGUE Atlanta 2017",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "943": {
+        "name": "Semifinalist at ELEAGUE Atlanta 2017",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "944": {
+        "name": "Quarterfinalist at ELEAGUE Atlanta 2017",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "945": {
+        "name": "Bronze Atlanta 2017 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/atlanta_pickem_2017_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "946": {
+        "name": "Silver Atlanta 2017 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/atlanta_pickem_2017_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "947": {
+        "name": "Gold Atlanta 2017 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/atlanta_pickem_2017_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "948": {
+        "name": "Champion at PGL Krakow 2017",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "949": {
+        "name": "Finalist at PGL Krakow 2017",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "950": {
+        "name": "Semifinalist at PGL Krakow 2017",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "951": {
+        "name": "Quarterfinalist at PGL Krakow 2017",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "952": {
+        "name": "Bronze Krakow 2017 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/krakow_pickem_2017_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "953": {
+        "name": "Silver Krakow 2017 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/krakow_pickem_2017_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "954": {
+        "name": "Gold Krakow 2017 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/krakow_pickem_2017_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "955": {
+        "name": "Champion at ELEAGUE Boston 2018",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "956": {
+        "name": "Finalist at ELEAGUE Boston 2018",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "957": {
+        "name": "Semifinalist at ELEAGUE Boston 2018",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "958": {
+        "name": "Quarterfinalist at ELEAGUE Boston 2018",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "959": {
+        "name": "Bronze Boston 2018 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/boston_pickem_2018_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "960": {
+        "name": "Silver Boston 2018 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/boston_pickem_2018_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "961": {
+        "name": "Gold Boston 2018 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/boston_pickem_2018_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "962": {
+        "name": "Champion at FACEIT London 2018",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "963": {
+        "name": "Finalist at FACEIT London 2018",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "964": {
+        "name": "Semifinalist at FACEIT London 2018",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "965": {
+        "name": "Quarterfinalist at FACEIT London 2018",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "966": {
+        "name": "Bronze London 2018 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/london_pickem_2018_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "967": {
+        "name": "Silver London 2018 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/london_pickem_2018_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "968": {
+        "name": "Gold London 2018 Pick'Em Trophy",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/london_pickem_2018_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "969": {
+        "name": "10 Year Veteran Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/10yearcoin_png.png",
+        "color": "#eb4b4b"
+    },
+    "970": {
+        "name": "Loyalty Badge",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/prime_badge_png.png",
+        "color": "#eb4b4b"
+    },
+    "971": {
+        "name": "Champion at IEM Katowice 2019",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "972": {
+        "name": "Finalist at IEM Katowice 2019",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "973": {
+        "name": "Semifinalist at IEM Katowice 2019",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "974": {
+        "name": "Quarterfinalist at IEM Katowice 2019",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "975": {
+        "name": "Champion at StarLadder Berlin 2019",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "976": {
+        "name": "Finalist at StarLadder Berlin 2019",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "977": {
+        "name": "Semifinalist at StarLadder Berlin 2019",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "978": {
+        "name": "Quarterfinalist at StarLadder Berlin 2019",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "979": {
+        "name": "Champion at PGL Stockholm 2021",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "980": {
+        "name": "Finalist at PGL Stockholm 2021",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "981": {
+        "name": "Semifinalist at PGL Stockholm 2021",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "982": {
+        "name": "Quarterfinalist at PGL Stockholm 2021",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "983": {
+        "name": "Champion at PGL Antwerp 2022",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "984": {
+        "name": "Finalist at PGL Antwerp 2022",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "985": {
+        "name": "Semifinalist at PGL Antwerp 2022",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "986": {
+        "name": "Quarterfinalist at PGL Antwerp 2022",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "987": {
+        "name": "10 Year Birthday Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/cupcake_10_year_png.png",
+        "color": "#eb4b4b"
+    },
+    "988": {
+        "name": "Champion at IEM Rio 2022",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "989": {
+        "name": "Finalist at IEM Rio 2022",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "990": {
+        "name": "Semifinalist at IEM Rio 2022",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "991": {
+        "name": "Quarterfinalist at IEM Rio 2022",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "992": {
+        "name": "Champion at BLAST.tv Paris 2023",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "993": {
+        "name": "Finalist at BLAST.tv Paris 2023",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "994": {
+        "name": "Semifinalist at BLAST.tv Paris 2023",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "995": {
+        "name": "Quarterfinalist at BLAST.tv Paris 2023",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "996": {
+        "name": "Global Offensive Badge",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/coin_csgo_png.png",
+        "color": "#eb4b4b"
+    },
+    "1001": {
+        "name": "Operation Payback Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/community_support_pass_coin1_png.png",
+        "color": "#eb4b4b"
+    },
+    "1002": {
+        "name": "Silver Operation Payback Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/community_support_pass_coin2_png.png",
+        "color": "#eb4b4b"
+    },
+    "1003": {
+        "name": "Gold Operation Payback Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/community_support_pass_coin3_png.png",
+        "color": "#eb4b4b"
+    },
+    "1004": {
+        "name": "Museum Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_museum_png.png",
+        "color": "#eb4b4b"
+    },
+    "1005": {
+        "name": "Downtown Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_downtown_png.png",
+        "color": "#eb4b4b"
+    },
+    "1006": {
+        "name": "Thunder Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_thunder_png.png",
+        "color": "#eb4b4b"
+    },
+    "1007": {
+        "name": "Favela Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_favela_png.png",
+        "color": "#eb4b4b"
+    },
+    "1008": {
+        "name": "Motel Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_motel_png.png",
+        "color": "#eb4b4b"
+    },
+    "1009": {
+        "name": "Seaside Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_seaside_png.png",
+        "color": "#eb4b4b"
+    },
+    "1010": {
+        "name": "Library Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_library_png.png",
+        "color": "#eb4b4b"
+    },
+    "1013": {
+        "name": "Operation Bravo Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_bravo_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "1014": {
+        "name": "Silver Operation Bravo Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_bravo_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "1015": {
+        "name": "Gold Operation Bravo Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_bravo_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "1016": {
+        "name": "Agency Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_agency_png.png",
+        "color": "#eb4b4b"
+    },
+    "1017": {
+        "name": "Ali Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_ali_png.png",
+        "color": "#eb4b4b"
+    },
+    "1018": {
+        "name": "Cache Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_cache_png.png",
+        "color": "#eb4b4b"
+    },
+    "1019": {
+        "name": "Chinatown Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_chinatown_png.png",
+        "color": "#eb4b4b"
+    },
+    "1020": {
+        "name": "Gwalior Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_gwalior_png.png",
+        "color": "#eb4b4b"
+    },
+    "1021": {
+        "name": "Ruins Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_ruins_png.png",
+        "color": "#eb4b4b"
+    },
+    "1022": {
+        "name": "Siege Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_siege_png.png",
+        "color": "#eb4b4b"
+    },
+    "1024": {
+        "name": "Operation Phoenix Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_phoenix_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "1025": {
+        "name": "Silver Operation Phoenix Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_phoenix_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "1026": {
+        "name": "Gold Operation Phoenix Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_phoenix_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "1028": {
+        "name": "Operation Breakout Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_breakout_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "1029": {
+        "name": "Silver Operation Breakout Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_breakout_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "1030": {
+        "name": "Gold Operation Breakout Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_breakout_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "1031": {
+        "name": "Castle Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_castle_png.png",
+        "color": "#eb4b4b"
+    },
+    "1032": {
+        "name": "Black Gold Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_blackgold_png.png",
+        "color": "#eb4b4b"
+    },
+    "1033": {
+        "name": "Rush Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_rush_png.png",
+        "color": "#eb4b4b"
+    },
+    "1034": {
+        "name": "Mist Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_mist_png.png",
+        "color": "#eb4b4b"
+    },
+    "1035": {
+        "name": "Insertion Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_insertion_png.png",
+        "color": "#eb4b4b"
+    },
+    "1036": {
+        "name": "Overgrown Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_overgrown_png.png",
+        "color": "#eb4b4b"
+    },
+    "1037": {
+        "name": "Marquis Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_marquis_png.png",
+        "color": "#eb4b4b"
+    },
+    "1038": {
+        "name": "Workout Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_workout_png.png",
+        "color": "#eb4b4b"
+    },
+    "1039": {
+        "name": "Backalley Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_backalley_png.png",
+        "color": "#eb4b4b"
+    },
+    "1040": {
+        "name": "Season Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_season_png.png",
+        "color": "#eb4b4b"
+    },
+    "1041": {
+        "name": "Bazaar Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_bazaar_png.png",
+        "color": "#eb4b4b"
+    },
+    "1042": {
+        "name": "Facade Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_facade_png.png",
+        "color": "#eb4b4b"
+    },
+    "1043": {
+        "name": "Log Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_log_png.png",
+        "color": "#eb4b4b"
+    },
+    "1044": {
+        "name": "Rails Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_rails_png.png",
+        "color": "#eb4b4b"
+    },
+    "1045": {
+        "name": "Resort Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_resort_png.png",
+        "color": "#eb4b4b"
+    },
+    "1046": {
+        "name": "Zoo Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_zoo_png.png",
+        "color": "#eb4b4b"
+    },
+    "1047": {
+        "name": "Santorini Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_santorini_png.png",
+        "color": "#eb4b4b"
+    },
+    "1048": {
+        "name": "Coast Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_coast_png.png",
+        "color": "#eb4b4b"
+    },
+    "1049": {
+        "name": "Mikla Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_mikla_png.png",
+        "color": "#eb4b4b"
+    },
+    "1050": {
+        "name": "Royal Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_royal_png.png",
+        "color": "#eb4b4b"
+    },
+    "1051": {
+        "name": "Empire Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_empire_png.png",
+        "color": "#eb4b4b"
+    },
+    "1052": {
+        "name": "Tulip Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_tulip_png.png",
+        "color": "#eb4b4b"
+    },
+    "1053": {
+        "name": "Cruise Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_cruise_png.png",
+        "color": "#eb4b4b"
+    },
+    "1054": {
+        "name": "Subzero Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_subzero_png.png",
+        "color": "#eb4b4b"
+    },
+    "1055": {
+        "name": "Biome Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_biome_png.png",
+        "color": "#eb4b4b"
+    },
+    "1056": {
+        "name": "Abbey Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_abbey_png.png",
+        "color": "#eb4b4b"
+    },
+    "1057": {
+        "name": "Ruby Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_ruby_png.png",
+        "color": "#eb4b4b"
+    },
+    "1058": {
+        "name": "Breach Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_breach_png.png",
+        "color": "#eb4b4b"
+    },
+    "1059": {
+        "name": "Studio Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_studio_png.png",
+        "color": "#eb4b4b"
+    },
+    "1060": {
+        "name": "Jungle Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_jungle_png.png",
+        "color": "#eb4b4b"
+    },
+    "1061": {
+        "name": "Anubis Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_anubis_png.png",
+        "color": "#eb4b4b"
+    },
+    "1062": {
+        "name": "Chlorine Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_chlorine_png.png",
+        "color": "#eb4b4b"
+    },
+    "1063": {
+        "name": "Mutiny Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_mutiny_png.png",
+        "color": "#eb4b4b"
+    },
+    "1064": {
+        "name": "Swamp Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_swamp_png.png",
+        "color": "#eb4b4b"
+    },
+    "1065": {
+        "name": "Frostbite Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_frostbite_png.png",
+        "color": "#eb4b4b"
+    },
+    "1066": {
+        "name": "Engage Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_engage_png.png",
+        "color": "#eb4b4b"
+    },
+    "1067": {
+        "name": "Apollo Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_apollo_png.png",
+        "color": "#eb4b4b"
+    },
+    "1068": {
+        "name": "Guard Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_guard_png.png",
+        "color": "#eb4b4b"
+    },
+    "1069": {
+        "name": "Elysion Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_elysion_png.png",
+        "color": "#eb4b4b"
+    },
+    "1070": {
+        "name": "Grind Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_grind_png.png",
+        "color": "#eb4b4b"
+    },
+    "1071": {
+        "name": "Mocha Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_mocha_png.png",
+        "color": "#eb4b4b"
+    },
+    "1072": {
+        "name": "Calavera Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_calavera_png.png",
+        "color": "#eb4b4b"
+    },
+    "1073": {
+        "name": "Pitstop Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_pitstop_png.png",
+        "color": "#eb4b4b"
+    },
+    "1074": {
+        "name": "Basalt Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_basalt_png.png",
+        "color": "#eb4b4b"
+    },
+    "1075": {
+        "name": "Insertion II Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_insertion2_png.png",
+        "color": "#eb4b4b"
+    },
+    "1076": {
+        "name": "Ravine Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_ravine_png.png",
+        "color": "#eb4b4b"
+    },
+    "1077": {
+        "name": "Extraction Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_extraction_png.png",
+        "color": "#eb4b4b"
+    },
+    "1078": {
+        "name": "County Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_county_png.png",
+        "color": "#eb4b4b"
+    },
+    "1079": {
+        "name": "Iris Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_iris_png.png",
+        "color": "#eb4b4b"
+    },
+    "1080": {
+        "name": "Climb Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_climb_png.png",
+        "color": "#eb4b4b"
+    },
+    "1081": {
+        "name": "Crete Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_crete_png.png",
+        "color": "#eb4b4b"
+    },
+    "1082": {
+        "name": "Hive Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_hive_png.png",
+        "color": "#eb4b4b"
+    },
+    "1083": {
+        "name": "Vineyard Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_vineyard_png.png",
+        "color": "#eb4b4b"
+    },
+    "1084": {
+        "name": "Ember Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_ember_png.png",
+        "color": "#eb4b4b"
+    },
+    "1085": {
+        "name": "Tuscan Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_tuscan_png.png",
+        "color": "#eb4b4b"
+    },
+    "1086": {
+        "name": "Cascade Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_prime_png.png",
+        "color": "#eb4b4b"
+    },
+    "1087": {
+        "name": "Blagai Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_blagai_png.png",
+        "color": "#eb4b4b"
+    },
+    "1088": {
+        "name": "Boyard Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_boyard_png.png",
+        "color": "#eb4b4b"
+    },
+    "1089": {
+        "name": "Chalice Map Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/maptoken_chalice_png.png",
+        "color": "#eb4b4b"
+    },
+    "1316": {
+        "name": "Operation Vanguard Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_vanguard_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "1317": {
+        "name": "Silver Operation Vanguard Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_vanguard_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "1318": {
+        "name": "Gold Operation Vanguard Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_vanguard_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "1327": {
+        "name": "Operation Bloodhound Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_6_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "1328": {
+        "name": "Silver Operation Bloodhound Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_6_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "1329": {
+        "name": "Gold Operation Bloodhound Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_6_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "1331": {
+        "name": "2015 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2015_png.png",
+        "color": "#eb4b4b"
+    },
+    "1332": {
+        "name": "2015 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2015_2_png.png",
+        "color": "#eb4b4b"
+    },
+    "1336": {
+        "name": "Operation Wildfire Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_7_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "1337": {
+        "name": "Silver Operation Wildfire Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_7_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "1338": {
+        "name": "Gold Operation Wildfire Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_7_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "1339": {
+        "name": "2016 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2016_lvl1_png.png",
+        "color": "#eb4b4b"
+    },
+    "1340": {
+        "name": "2016 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2016_lvl2_png.png",
+        "color": "#eb4b4b"
+    },
+    "1341": {
+        "name": "2016 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2016_lvl3_png.png",
+        "color": "#eb4b4b"
+    },
+    "1342": {
+        "name": "2016 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2016_lvl4_png.png",
+        "color": "#eb4b4b"
+    },
+    "1343": {
+        "name": "2016 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2016_lvl5_png.png",
+        "color": "#eb4b4b"
+    },
+    "1344": {
+        "name": "2016 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2016_lvl6_png.png",
+        "color": "#eb4b4b"
+    },
+    "1357": {
+        "name": "2017 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2017_lvl1_png.png",
+        "color": "#eb4b4b"
+    },
+    "1358": {
+        "name": "2017 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2017_lvl2_png.png",
+        "color": "#eb4b4b"
+    },
+    "1359": {
+        "name": "2017 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2017_lvl3_png.png",
+        "color": "#eb4b4b"
+    },
+    "1360": {
+        "name": "2017 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2017_lvl4_png.png",
+        "color": "#eb4b4b"
+    },
+    "1361": {
+        "name": "2017 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2017_lvl5_png.png",
+        "color": "#eb4b4b"
+    },
+    "1362": {
+        "name": "2017 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2017_lvl6_png.png",
+        "color": "#eb4b4b"
+    },
+    "1363": {
+        "name": "2017 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2017_lvl7_png.png",
+        "color": "#eb4b4b"
+    },
+    "1367": {
+        "name": "2018 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2018_lvl1_png.png",
+        "color": "#eb4b4b"
+    },
+    "1368": {
+        "name": "2018 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2018_lvl2_png.png",
+        "color": "#eb4b4b"
+    },
+    "1369": {
+        "name": "2018 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2018_lvl3_png.png",
+        "color": "#eb4b4b"
+    },
+    "1370": {
+        "name": "2018 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2018_lvl4_png.png",
+        "color": "#eb4b4b"
+    },
+    "1371": {
+        "name": "2018 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2018_lvl5_png.png",
+        "color": "#eb4b4b"
+    },
+    "1372": {
+        "name": "2018 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2018_lvl6_png.png",
+        "color": "#eb4b4b"
+    },
+    "1376": {
+        "name": "2019 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2019_lvl1_png.png",
+        "color": "#eb4b4b"
+    },
+    "1377": {
+        "name": "2019 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2019_lvl2_png.png",
+        "color": "#eb4b4b"
+    },
+    "1378": {
+        "name": "2019 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2019_lvl3_png.png",
+        "color": "#eb4b4b"
+    },
+    "1379": {
+        "name": "2019 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2019_lvl4_png.png",
+        "color": "#eb4b4b"
+    },
+    "1380": {
+        "name": "2019 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2019_lvl5_png.png",
+        "color": "#eb4b4b"
+    },
+    "1381": {
+        "name": "2019 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2019_lvl6_png.png",
+        "color": "#eb4b4b"
+    },
+    "4353": {
+        "name": "Operation Hydra Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_8_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4354": {
+        "name": "Silver Operation Hydra Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_8_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4355": {
+        "name": "Gold Operation Hydra Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_8_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4356": {
+        "name": "Diamond Operation Hydra Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_8_platinum_png.png",
+        "color": "#eb4b4b"
+    },
+    "4550": {
+        "name": "Operation Shattered Web Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_9_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4551": {
+        "name": "Silver Operation Shattered Web Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_9_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4552": {
+        "name": "Gold Operation Shattered Web Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_9_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4553": {
+        "name": "Diamond Operation Shattered Web Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_9_platinum_png.png",
+        "color": "#eb4b4b"
+    },
+    "4555": {
+        "name": "Katowice 2019 Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/katowice_pickem_2019_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4556": {
+        "name": "Katowice 2019 Silver Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/katowice_pickem_2019_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4557": {
+        "name": "Katowice 2019 Gold Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/katowice_pickem_2019_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4558": {
+        "name": "Katowice 2019 Diamond Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/katowice_pickem_2019_crystal_png.png",
+        "color": "#eb4b4b"
+    },
+    "4623": {
+        "name": "Berlin 2019 Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/starladder_pickem_2019_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4624": {
+        "name": "Berlin 2019 Silver Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/starladder_pickem_2019_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4625": {
+        "name": "Berlin 2019 Gold Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/starladder_pickem_2019_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4626": {
+        "name": "Berlin 2019 Diamond Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/starladder_pickem_2019_crystal_png.png",
+        "color": "#eb4b4b"
+    },
+    "4674": {
+        "name": "2020 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2020_lvl1_png.png",
+        "color": "#eb4b4b"
+    },
+    "4675": {
+        "name": "2020 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2020_lvl2_png.png",
+        "color": "#eb4b4b"
+    },
+    "4676": {
+        "name": "2020 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2020_lvl3_png.png",
+        "color": "#eb4b4b"
+    },
+    "4677": {
+        "name": "2020 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2020_lvl4_png.png",
+        "color": "#eb4b4b"
+    },
+    "4678": {
+        "name": "2020 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2020_lvl5_png.png",
+        "color": "#eb4b4b"
+    },
+    "4679": {
+        "name": "2020 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2020_lvl6_png.png",
+        "color": "#eb4b4b"
+    },
+    "4682": {
+        "name": "Civil Protection Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_04_png.png",
+        "color": "#eb4b4b"
+    },
+    "4683": {
+        "name": "Sustenance! Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_07_png.png",
+        "color": "#d32ce6"
+    },
+    "4684": {
+        "name": "Vortigaunt Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_09_png.png",
+        "color": "#d32ce6"
+    },
+    "4685": {
+        "name": "Headcrab Glyph Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_05_png.png",
+        "color": "#8847ff"
+    },
+    "4686": {
+        "name": "Health Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_12_png.png",
+        "color": "#8847ff"
+    },
+    "4687": {
+        "name": "Lambda Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_01_png.png",
+        "color": "#4b69ff"
+    },
+    "4688": {
+        "name": "Copper Lambda Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_02_png.png",
+        "color": "#8847ff"
+    },
+    "4689": {
+        "name": "CMB Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_03_png.png",
+        "color": "#4b69ff"
+    },
+    "4690": {
+        "name": "Black Mesa Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_06_png.png",
+        "color": "#4b69ff"
+    },
+    "4691": {
+        "name": "Combine Helmet Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_08_png.png",
+        "color": "#4b69ff"
+    },
+    "4692": {
+        "name": "City 17 Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_11_png.png",
+        "color": "#4b69ff"
+    },
+    "4700": {
+        "name": "Operation Broken Fang Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_10_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4701": {
+        "name": "Silver Operation Broken Fang Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_10_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4702": {
+        "name": "Gold Operation Broken Fang Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_10_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4703": {
+        "name": "Diamond Operation Broken Fang Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_10_platinum_png.png",
+        "color": "#eb4b4b"
+    },
+    "4737": {
+        "name": "2021 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2021_lvl1_png.png",
+        "color": "#eb4b4b"
+    },
+    "4738": {
+        "name": "2021 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2021_lvl2_png.png",
+        "color": "#eb4b4b"
+    },
+    "4739": {
+        "name": "2021 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2021_lvl3_png.png",
+        "color": "#eb4b4b"
+    },
+    "4740": {
+        "name": "2021 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2021_lvl4_png.png",
+        "color": "#eb4b4b"
+    },
+    "4741": {
+        "name": "2021 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2021_lvl5_png.png",
+        "color": "#eb4b4b"
+    },
+    "4742": {
+        "name": "2021 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2021_lvl6_png.png",
+        "color": "#eb4b4b"
+    },
+    "4759": {
+        "name": "Operation Riptide Challenge Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_11_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4760": {
+        "name": "Silver Operation Riptide Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_11_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4761": {
+        "name": "Gold Operation Riptide Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_11_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4762": {
+        "name": "Diamond Operation Riptide Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/operation_11_platinum_png.png",
+        "color": "#eb4b4b"
+    },
+    "4797": {
+        "name": "Stockholm 2021 Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2021_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4798": {
+        "name": "Stockholm 2021 Silver Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2021_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4799": {
+        "name": "Stockholm 2021 Gold Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2021_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4800": {
+        "name": "Stockholm 2021 Diamond Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2021_crystal_png.png",
+        "color": "#eb4b4b"
+    },
+    "4819": {
+        "name": "2022 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2022_lvl1_png.png",
+        "color": "#eb4b4b"
+    },
+    "4820": {
+        "name": "2022 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2022_lvl2_png.png",
+        "color": "#eb4b4b"
+    },
+    "4821": {
+        "name": "2022 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2022_lvl3_png.png",
+        "color": "#eb4b4b"
+    },
+    "4822": {
+        "name": "2022 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2022_lvl4_png.png",
+        "color": "#eb4b4b"
+    },
+    "4823": {
+        "name": "2022 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2022_lvl5_png.png",
+        "color": "#eb4b4b"
+    },
+    "4824": {
+        "name": "2022 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2022_lvl6_png.png",
+        "color": "#eb4b4b"
+    },
+    "4826": {
+        "name": "Antwerp 2022 Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2022_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4827": {
+        "name": "Antwerp 2022 Silver Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2022_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4828": {
+        "name": "Antwerp 2022 Gold Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2022_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4829": {
+        "name": "Antwerp 2022 Diamond Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2022_crystal_png.png",
+        "color": "#eb4b4b"
+    },
+    "4851": {
+        "name": "Rio 2022 Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/iem_pickem_2022_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4852": {
+        "name": "Rio 2022 Silver Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/iem_pickem_2022_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4853": {
+        "name": "Rio 2022 Gold Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/iem_pickem_2022_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4854": {
+        "name": "Rio 2022 Diamond Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/iem_pickem_2022_crystal_png.png",
+        "color": "#eb4b4b"
+    },
+    "4873": {
+        "name": "2023 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2023_lvl1_png.png",
+        "color": "#eb4b4b"
+    },
+    "4874": {
+        "name": "2023 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2023_lvl2_png.png",
+        "color": "#eb4b4b"
+    },
+    "4875": {
+        "name": "2023 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2023_lvl3_png.png",
+        "color": "#eb4b4b"
+    },
+    "4876": {
+        "name": "2023 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2023_lvl4_png.png",
+        "color": "#eb4b4b"
+    },
+    "4877": {
+        "name": "2023 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2023_lvl5_png.png",
+        "color": "#eb4b4b"
+    },
+    "4878": {
+        "name": "2023 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2023_lvl6_png.png",
+        "color": "#eb4b4b"
+    },
+    "4884": {
+        "name": "Paris 2023 Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/blast_pickem_2023_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4885": {
+        "name": "Paris 2023 Silver Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/blast_pickem_2023_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4886": {
+        "name": "Paris 2023 Gold Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/blast_pickem_2023_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4887": {
+        "name": "Paris 2023 Diamond Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/blast_pickem_2023_crystal_png.png",
+        "color": "#eb4b4b"
+    },
+    "4906": {
+        "name": "2024 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2024_lvl1_png.png",
+        "color": "#eb4b4b"
+    },
+    "4907": {
+        "name": "2024 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2024_lvl2_png.png",
+        "color": "#eb4b4b"
+    },
+    "4908": {
+        "name": "2024 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2024_lvl3_png.png",
+        "color": "#eb4b4b"
+    },
+    "4909": {
+        "name": "2024 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2024_lvl4_png.png",
+        "color": "#eb4b4b"
+    },
+    "4910": {
+        "name": "2024 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2024_lvl5_png.png",
+        "color": "#eb4b4b"
+    },
+    "4911": {
+        "name": "2024 Service Medal",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/service_medal_2024_lvl6_png.png",
+        "color": "#eb4b4b"
+    },
+    "4917": {
+        "name": "Copenhagen 2024 Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2024_bronze_png.png",
+        "color": "#eb4b4b"
+    },
+    "4918": {
+        "name": "Copenhagen 2024 Silver Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2024_silver_png.png",
+        "color": "#eb4b4b"
+    },
+    "4919": {
+        "name": "Copenhagen 2024 Gold Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2024_gold_png.png",
+        "color": "#eb4b4b"
+    },
+    "4920": {
+        "name": "Copenhagen 2024 Diamond Coin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/pgl_pickem_2024_crystal_png.png",
+        "color": "#eb4b4b"
+    },
+    "4933": {
+        "name": "Champion at PGL Copenhagen 2024",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_png.png",
+        "color": "#eb4b4b"
+    },
+    "4934": {
+        "name": "Finalist at PGL Copenhagen 2024",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "4935": {
+        "name": "Semifinalist at PGL Copenhagen 2024",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "4936": {
+        "name": "Quarterfinalist at PGL Copenhagen 2024",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/trophy_majors_finalists_png.png",
+        "color": "#eb4b4b"
+    },
+    "6001": {
+        "name": "Genuine Dust II Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_dust2_png.png",
+        "color": "#eb4b4b"
+    },
+    "6002": {
+        "name": "Genuine Guardian Elite Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_guardianelite_png.png",
+        "color": "#eb4b4b"
+    },
+    "6003": {
+        "name": "Genuine Mirage Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_mirage_png.png",
+        "color": "#d32ce6"
+    },
+    "6004": {
+        "name": "Genuine Inferno Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_inferno_png.png",
+        "color": "#d32ce6"
+    },
+    "6005": {
+        "name": "Genuine Italy Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_italy_png.png",
+        "color": "#8847ff"
+    },
+    "6006": {
+        "name": "Genuine Victory Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_victory_png.png",
+        "color": "#8847ff"
+    },
+    "6007": {
+        "name": "Genuine Militia Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_militia_png.png",
+        "color": "#8847ff"
+    },
+    "6008": {
+        "name": "Genuine Nuke Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_nuke_png.png",
+        "color": "#4b69ff"
+    },
+    "6009": {
+        "name": "Genuine Train Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_train_png.png",
+        "color": "#4b69ff"
+    },
+    "6010": {
+        "name": "Genuine Guardian Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_guardian_png.png",
+        "color": "#4b69ff"
+    },
+    "6011": {
+        "name": "Genuine Tactics Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_tactics_png.png",
+        "color": "#4b69ff"
+    },
+    "6012": {
+        "name": "Genuine Guardian 2 Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_guardian_2_png.png",
+        "color": "#4b69ff"
+    },
+    "6013": {
+        "name": "Genuine Bravo Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_bravo_png.png",
+        "color": "#4b69ff"
+    },
+    "6014": {
+        "name": "Genuine Baggage Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_baggage_png.png",
+        "color": "#4b69ff"
+    },
+    "6015": {
+        "name": "Genuine Phoenix Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_phoenix_png.png",
+        "color": "#4b69ff"
+    },
+    "6016": {
+        "name": "Genuine Office Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_office_png.png",
+        "color": "#8847ff"
+    },
+    "6017": {
+        "name": "Genuine Cobblestone Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_cobblestone_png.png",
+        "color": "#8847ff"
+    },
+    "6018": {
+        "name": "Genuine Overpass Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_overpass_png.png",
+        "color": "#8847ff"
+    },
+    "6019": {
+        "name": "Genuine Bloodhound Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_bloodhound_png.png",
+        "color": "#d32ce6"
+    },
+    "6020": {
+        "name": "Genuine Cache Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_cache_png.png",
+        "color": "#d32ce6"
+    },
+    "6021": {
+        "name": "Genuine Valeria Phoenix Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_valeria_png.png",
+        "color": "#eb4b4b"
+    },
+    "6022": {
+        "name": "Genuine Chroma Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_chroma_png.png",
+        "color": "#eb4b4b"
+    },
+    "6023": {
+        "name": "Genuine Guardian 3 Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_guardian_3_png.png",
+        "color": "#4b69ff"
+    },
+    "6024": {
+        "name": "Genuine Canals Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_canals_png.png",
+        "color": "#4b69ff"
+    },
+    "6025": {
+        "name": "Genuine Welcome to the Clutch Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_welcome_to_the_clutch_png.png",
+        "color": "#4b69ff"
+    },
+    "6026": {
+        "name": "Genuine Death Sentence Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_death_sentence_png.png",
+        "color": "#4b69ff"
+    },
+    "6027": {
+        "name": "Genuine Inferno 2 Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_inferno_2_png.png",
+        "color": "#8847ff"
+    },
+    "6028": {
+        "name": "Genuine Wildfire Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_wildfire_png.png",
+        "color": "#8847ff"
+    },
+    "6029": {
+        "name": "Genuine Easy Peasy Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_easy_peasy_png.png",
+        "color": "#8847ff"
+    },
+    "6030": {
+        "name": "Genuine Aces High Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_aces_high_png.png",
+        "color": "#d32ce6"
+    },
+    "6031": {
+        "name": "Genuine Hydra Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_hydra_png.png",
+        "color": "#d32ce6"
+    },
+    "6032": {
+        "name": "Genuine Howl Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_howl_png.png",
+        "color": "#eb4b4b"
+    },
+    "6033": {
+        "name": "Genuine Brigadier General Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_brigadier_general_png.png",
+        "color": "#eb4b4b"
+    },
+    "6034": {
+        "name": "Genuine Alyx Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_10_png.png",
+        "color": "#eb4b4b"
+    },
+    "6101": {
+        "name": "Dust II Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_dust2_png.png",
+        "color": "#eb4b4b"
+    },
+    "6102": {
+        "name": "Guardian Elite Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_guardianelite_png.png",
+        "color": "#eb4b4b"
+    },
+    "6103": {
+        "name": "Mirage Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_mirage_png.png",
+        "color": "#d32ce6"
+    },
+    "6104": {
+        "name": "Inferno Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_inferno_png.png",
+        "color": "#d32ce6"
+    },
+    "6105": {
+        "name": "Italy Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_italy_png.png",
+        "color": "#8847ff"
+    },
+    "6106": {
+        "name": "Victory Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_victory_png.png",
+        "color": "#8847ff"
+    },
+    "6107": {
+        "name": "Militia Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_militia_png.png",
+        "color": "#8847ff"
+    },
+    "6108": {
+        "name": "Nuke Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_nuke_png.png",
+        "color": "#4b69ff"
+    },
+    "6109": {
+        "name": "Train Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_train_png.png",
+        "color": "#4b69ff"
+    },
+    "6110": {
+        "name": "Guardian Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_guardian_png.png",
+        "color": "#4b69ff"
+    },
+    "6111": {
+        "name": "Tactics Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_tactics_png.png",
+        "color": "#4b69ff"
+    },
+    "6112": {
+        "name": "Guardian 2 Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_guardian_2_png.png",
+        "color": "#4b69ff"
+    },
+    "6113": {
+        "name": "Bravo Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_bravo_png.png",
+        "color": "#4b69ff"
+    },
+    "6114": {
+        "name": "Baggage Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_baggage_png.png",
+        "color": "#4b69ff"
+    },
+    "6115": {
+        "name": "Phoenix Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_phoenix_png.png",
+        "color": "#4b69ff"
+    },
+    "6116": {
+        "name": "Office Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_office_png.png",
+        "color": "#8847ff"
+    },
+    "6117": {
+        "name": "Cobblestone Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_cobblestone_png.png",
+        "color": "#8847ff"
+    },
+    "6118": {
+        "name": "Overpass Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_overpass_png.png",
+        "color": "#8847ff"
+    },
+    "6119": {
+        "name": "Bloodhound Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_bloodhound_png.png",
+        "color": "#d32ce6"
+    },
+    "6120": {
+        "name": "Cache Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_cache_png.png",
+        "color": "#d32ce6"
+    },
+    "6121": {
+        "name": "Valeria Phoenix Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_valeria_png.png",
+        "color": "#eb4b4b"
+    },
+    "6122": {
+        "name": "Chroma Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_chroma_png.png",
+        "color": "#eb4b4b"
+    },
+    "6123": {
+        "name": "Guardian 3 Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_guardian_3_png.png",
+        "color": "#4b69ff"
+    },
+    "6124": {
+        "name": "Canals Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_canals_png.png",
+        "color": "#4b69ff"
+    },
+    "6125": {
+        "name": "Welcome to the Clutch Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_welcome_to_the_clutch_png.png",
+        "color": "#4b69ff"
+    },
+    "6126": {
+        "name": "Death Sentence Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_death_sentence_png.png",
+        "color": "#4b69ff"
+    },
+    "6127": {
+        "name": "Inferno 2 Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_inferno_2_png.png",
+        "color": "#8847ff"
+    },
+    "6128": {
+        "name": "Wildfire Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_wildfire_png.png",
+        "color": "#8847ff"
+    },
+    "6129": {
+        "name": "Easy Peasy Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_easy_peasy_png.png",
+        "color": "#8847ff"
+    },
+    "6130": {
+        "name": "Aces High Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_aces_high_png.png",
+        "color": "#d32ce6"
+    },
+    "6131": {
+        "name": "Hydra Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_hydra_png.png",
+        "color": "#d32ce6"
+    },
+    "6132": {
+        "name": "Howl Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_howl_png.png",
+        "color": "#eb4b4b"
+    },
+    "6133": {
+        "name": "Brigadier General Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_brigadier_general_png.png",
+        "color": "#eb4b4b"
+    },
+    "6134": {
+        "name": "Alyx Pin",
+        "weapon_name": "Pin",
+        "image": "https://raw.githubusercontent.com/FGNetwork/cs2-images/master/status_icons/collectible_Pin_alyx_10_png.png",
+        "color": "#eb4b4b"
+    }
+}
