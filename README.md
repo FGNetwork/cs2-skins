@@ -37,6 +37,8 @@ Type: `object`
 
 Example: https://github.com/FGNetwork/cs2-skins/blob/main/getAll.md
 
+---
+
 ### getSmokes()
 
 Returns all smokes.
@@ -46,6 +48,8 @@ Returns all smokes.
 Type: `object`
 
 Example: https://github.com/FGNetwork/cs2-skins/blob/main/getSmokes.md
+
+---
 
 ### getStickersCollections()
 
@@ -57,6 +61,8 @@ Type: `object`
 
 Example: https://github.com/FGNetwork/cs2-skins/blob/main/getStickersCollections.md
 
+---
+
 ### getStickersByCollection()
 
 Returns all stickers by collection.
@@ -66,6 +72,8 @@ Returns all stickers by collection.
 Type: `object`
 
 Example: https://github.com/FGNetwork/cs2-skins/blob/main/getStickersByCollection.md
+
+---
 
 ### getPins()
 
@@ -77,6 +85,8 @@ Type: `object`
 
 Example: https://github.com/FGNetwork/cs2-skins/blob/main/getPins.md
 
+---
+
 ### getMusicKits()
 
 Returns all music kits.
@@ -87,6 +97,8 @@ Type: `object`
 
 Example: https://github.com/FGNetwork/cs2-skins/blob/main/getMusicKits.md
 
+---
+
 ### getAgentsByTeam()
 
 Returns all agents by team.
@@ -96,6 +108,8 @@ Returns all agents by team.
 Type: `object`
 
 Example: https://github.com/FGNetwork/cs2-skins/blob/main/getAgentsByTeam.md
+
+---
 
 ### getSkinsByWeaponId()
 
