@@ -35,7 +35,7 @@ Returns all items.
 
 Type: `object`
 
-Example: https://github.com/FGNetwork/cs2-skins/blob/main/getAll.md
+Example: https://github.com/FGNetwork/cs2-skins/blob/master/docs/getAll.md
 
 ---
 
@@ -47,7 +47,7 @@ Returns all smokes.
 
 Type: `object`
 
-Example: https://github.com/FGNetwork/cs2-skins/blob/main/getSmokes.md
+Example: https://github.com/FGNetwork/cs2-skins/blob/master/docs/getSmokes.md
 
 ---
 
@@ -59,7 +59,7 @@ Returns all stickers collections.
 
 Type: `object`
 
-Example: https://github.com/FGNetwork/cs2-skins/blob/main/getStickersCollections.md
+Example: https://github.com/FGNetwork/cs2-skins/blob/master/docs/getStickersCollections.md
 
 ---
 
@@ -71,7 +71,7 @@ Returns all stickers by collection.
 
 Type: `object`
 
-Example: https://github.com/FGNetwork/cs2-skins/blob/main/getStickersByCollection.md
+Example: https://github.com/FGNetwork/cs2-skins/blob/master/docs/getStickersByCollection.md
 
 ---
 
@@ -83,7 +83,7 @@ Returns all pins.
 
 Type: `object`
 
-Example: https://github.com/FGNetwork/cs2-skins/blob/main/getPins.md
+Example: https://github.com/FGNetwork/cs2-skins/blob/master/docs/getPins.md
 
 ---
 
@@ -95,7 +95,7 @@ Returns all music kits.
 
 Type: `object`
 
-Example: https://github.com/FGNetwork/cs2-skins/blob/main/getMusicKits.md
+Example: https://github.com/FGNetwork/cs2-skins/blob/master/docs/getMusicKits.md
 
 ---
 
@@ -107,7 +107,7 @@ Returns all agents by team.
 
 Type: `object`
 
-Example: https://github.com/FGNetwork/cs2-skins/blob/main/getAgentsByTeam.md
+Example: https://github.com/FGNetwork/cs2-skins/blob/master/docs/getAgentsByTeam.md
 
 ---
 
@@ -119,4 +119,4 @@ Returns all skins by weapon id.
 
 Type: `object`
 
-Example: https://github.com/FGNetwork/cs2-skins/blob/main/getSkinsByWeaponId.md
+Example: https://github.com/FGNetwork/cs2-skins/blob/master/docs/getSkinsByWeaponId.md
