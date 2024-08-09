@@ -3,11 +3,11 @@
 ## Install
 
 ```sh
-  npm install cs2-skins
+npm install cs2-skins
 ```
 Or
 ```sh
-  yarn add cs2-skins
+yarn add cs2-skins
 ```
 
 
