@@ -18,13 +18,11 @@
     "public"
   ],
   "scripts": {
-    "build": "npx -y tsc",
+    "prepack": "([ -d dist ] && rm -rf dist); npx -y tsc",
     "dev": "tsx src/index.ts"
   },
-  "dependencies": {
-    "@types/node": "^22.1.0"
-  },
   "devDependencies": {
+    "@types/node": "^22.1.0",
     "tsx": "^4.16.5",
     "typescript": "^5.5.4"
   }

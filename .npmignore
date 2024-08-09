@@ -8,7 +8,6 @@ assets/data
 assets/images
 assets/sounds
 jest.config.js
-README.md
 scripts
 src
 tsconfig.json
