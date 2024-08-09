@@ -3,18 +3,18 @@
 ## Install
 
 ```sh
-  npm install @fgnetwork/cs2-skins
+  npm install cs2-skins
 ```
 Or
 ```sh
-  yarn add @fgnetwork/cs2-skins
+  yarn add cs2-skins
 ```
 
 
 ### Usage
 
 ```ts
-import { CS2Items } from "@fgnetwork/cs2-skins";
+import { CS2Items } from "cs2-skins";
 
 const items = CS2Items.getAll();
 
