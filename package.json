@@ -1,13 +1,24 @@
 {
   "name": "cs2-skins",
   "version": "1.0.0",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "description": "CS2 skins",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FGNetwork/cs2-skins.git"
+  },
+  "author": {
+    "name": "FGNetwork",
+    "url": "https://github.com/FGNetwork"
+  },
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "files": [
-    "/dist"
+    "dist",
+    "public"
   ],
   "scripts": {
-    "build": "tsc",
+    "build": "npx -y tsc",
     "dev": "tsx src/index.ts"
   },
   "dependencies": {
