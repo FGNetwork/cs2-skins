@@ -1,5 +1,3 @@
-import fs from "fs";
-
 export enum EWeapons {
     Knifes = 0,
     Gloves = 1,
@@ -73,24 +71,16 @@ class Items {
             };
         }
     }
-    private itemsFile: string = "/../public/data/items.json";
-    private stickersFile: string = "/../public/data/stickers.json";
-    private stickersCollectionsFile: string = "/../public/data/stickers-collections.json";
-    private pinsFile: string = "/../public/data/collectibles.json";
-    private musicKitsFile: string = "/../public/data/musickit.json";
-    private agentsFile: string = "/../public/data/agents.json";
-    private smokesFile: string = "/../public/data/smokes.json";
-    private skinsFile: string = "/../public/data/skins.json";
 
     constructor() {
-        this.items = JSON.parse(fs.readFileSync(__dirname + this.itemsFile, "utf8"));
-        this.stickers = JSON.parse(fs.readFileSync(__dirname + this.stickersFile, "utf8"));
-        this.stickersCollections = JSON.parse(fs.readFileSync(__dirname + this.stickersCollectionsFile, "utf8"));
-        this.pins = JSON.parse(fs.readFileSync(__dirname + this.pinsFile, "utf8"));
-        this.musicKits = JSON.parse(fs.readFileSync(__dirname + this.musicKitsFile, "utf8"));
-        this.agents = JSON.parse(fs.readFileSync(__dirname + this.agentsFile, "utf8"));
-        this.smokes = JSON.parse(fs.readFileSync(__dirname + this.smokesFile, "utf8"));
-        this.skins = JSON.parse(fs.readFileSync(__dirname + this.skinsFile, "utf8"));
+        this.items = require("../public/data/items.json");
+        this.stickers = require("../public/data/stickers.json");
+        this.stickersCollections = require("../public/data/stickers-collections.json");
+        this.pins = require("../public/data/collectibles.json");
+        this.musicKits = require("../public/data/musickit.json");
+        this.agents = require("../public/data/agents.json");
+        this.smokes = require("../public/data/smokes.json");
+        this.skins = require("../public/data/skins.json");
     }
 
     getAll = () => {
