@@ -68,6 +68,7 @@ class Items {
                 name: string;
                 image: string;
                 color: string;
+                rarity: string;
             };
         }
     }
