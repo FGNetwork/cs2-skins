@@ -121,6 +121,13 @@ class Items {
     getSkinsByWeaponId = (id: number) => {
         return this.skins[id];
     };
+
+    getStickerById = (id: string) => {
+        return Object.fromEntries(
+            Object.entries(this.stickers)
+                .filter(([key, sticker]) => key === id)
+        );
+    }
 };
 
 export const CS2Items = new Items();
