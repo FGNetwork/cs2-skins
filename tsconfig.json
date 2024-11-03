@@ -3,12 +3,12 @@
         "declaration": true,
         "esModuleInterop": true,
         "lib": ["ESNext"],
-        "module": "ESNext",
+        "module": "CommonJS",
         "moduleResolution": "node",
         "outDir": "dist",
         "resolveJsonModule": true,
         "strict": true,
-        "target": "ESNext"
+        "target": "ES6"
     },
-    "include": ["src/index.ts"]
+    "include": ["src"]
 }
